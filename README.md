@@ -10,9 +10,9 @@ Este repositório reúne os resultados do laboratório prático proposto na plat
 - Markdown para documentação
 
 ## 📚 Conteúdo
-- [Speech Studio](./Speech_Studio/anotacoes.md)
-- [Language Studio](./Language_Studio/anotacoes.md)
-- [Insights gerais](./insights_gerais.md)
+- [Speech Studio]
+- [Language Studio]
+- [Insights gerais]
 
 # Azure Speech Studio - Anotações
 
